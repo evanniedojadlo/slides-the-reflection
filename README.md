@@ -16,6 +16,7 @@ Some inspiration for my doodles:
 
 * [dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty? ](https://www.youtube.com/watch?v=UIDb6VBO9os)
 * [F'd Companies](https://www.simonandschuster.com/books/Fd-Companies/Philip-J-Kaplan/9781416577935)
+* [Explore It!](https://pragprog.com/titles/ehxta/explore-it/)
 * The 90s
 * The dot-com bubble
 
